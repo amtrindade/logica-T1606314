@@ -1,4 +1,4 @@
-/**
+
 ## Curso de Lógica de Programação para Analistas de Testes
 
 Bem-vindo ao repositório do **LogicaTarget**! Este projeto foi desenvolvido para durante a aula para demonstrar conceitos de lógica e testes unitários.
@@ -20,27 +20,12 @@ Bem-vindo ao repositório do **LogicaTarget**! Este projeto foi desenvolvido par
 - Junit Jupiter
 - Maven
 
+ 
+## Clonar o projeto
 
- * ## Como clonar o projeto e importar no Eclipse IDE
- *
- * 1. **Clonar o repositório**
- *    - Abra o terminal ou prompt de comando.
- *    - Execute o comando: `git clone <URL_DO_REPOSITORIO>`
- *    - Aguarde o download dos arquivos do projeto.
- *
- * 2. **Importar no Eclipse IDE**
- *    - Abra o Eclipse IDE.
- *    - Vá em `File > Import...`.
- *    - Selecione `Existing Projects into Workspace` em `General`.
- *    - Clique em `Next`.
- *    - Em `Select root directory`, clique em `Browse...` e selecione a pasta do projeto clonado.
- *    - Certifique-se de que o projeto está marcado em `Projects`.
- *    - Clique em `Finish`.
- *
- * 3. **Configurar dependências**
- *    - Caso o projeto utilize Maven ou Gradle, o Eclipse irá detectar e baixar as dependências automaticamente.
- *    - Se necessário, clique com o botão direito no projeto e selecione `Maven > Update Project` ou `Gradle > Refresh`.
- *
- * 4. **Executar o projeto**
- *    - Após a importação e configuração, você pode executar o projeto normalmente pelo Eclipse.
- */
+1. Abra o Git Bash
+2. Clone o repositório com o comando `git clone https://github.com/antoniologica/logicatarget.git`
+3. Abra o Eclipse
+4. Selecione `File` > `Import` > `Existing Projects into Workspace` 
+5. Selecione o diretório que foi clonado e clique em `Finish`
+6. O projeto estará pronto para ser usado.
