@@ -24,7 +24,7 @@ Bem-vindo ao repositório do **LogicaTarget**! Este projeto foi desenvolvido par
 ## Clonar o projeto
 
 1. Abra o Git Bash
-2. Clone o repositório com o comando `git clone https://github.com/antoniologica/logicatarget.git`
+2. Clone o repositório com o comando `git clone https://github.com/amtrindade/logica-T1606314.git`
 3. Abra o Eclipse
 4. Selecione `File` > `Import` > `Existing Projects into Workspace` 
 5. Selecione o diretório que foi clonado e clique em `Finish`
