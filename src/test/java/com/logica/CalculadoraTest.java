@@ -56,6 +56,34 @@ public class CalculadoraTest {
 		assertEquals(0, resultado);
 	}
 	
+	@Test
+	public void fatorialDeCinco() {
+		Calculadora calc = new Calculadora();
+		Integer resultado = calc.fatorial(5);
+		assertEquals(120, resultado);
+		
+	}
 	
+	@Test
+	public void fatorialDeUm() {
+		Calculadora calc = new Calculadora();
+		Integer resultado = calc.fatorial(1);
+		assertEquals(1, resultado);
+		
+	}
+	
+	@Test
+	public void fatorialDeZero() {
+		Calculadora calc = new Calculadora();
+		Integer resultado = calc.fatorial(0);
+		assertEquals(1, resultado);
+	}
+	
+	@Test
+	public void fatorialDeValorNegativo() {
+		Calculadora calc = new Calculadora();
+		Integer resultado = calc.fatorial(-1);
+		assertEquals(0, resultado);
+	}
 
 }
